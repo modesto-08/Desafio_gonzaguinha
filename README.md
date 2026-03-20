@@ -1,84 +1,57 @@
-🎵 Gonzaguinha - O Que É, O Que É?
-📌 Sobre o Projeto
+# 🎵 Gonzaguinha - O Que É, O Que É?
 
-Este projeto consiste em uma página web desenvolvida utilizando apenas HTML5 e Bootstrap, com o objetivo de apresentar a música “O Que É, O Que É?” de Gonzaguinha de forma visual, organizada e responsiva.
+## 📌 Sobre o Projeto
+Este projeto é uma página web desenvolvida com **HTML5 e Bootstrap**, com o objetivo de apresentar a música *“O Que É, O Que É?”* de Gonzaguinha.
 
-A proposta é demonstrar a construção de um layout moderno sem o uso de CSS personalizado, aproveitando apenas os recursos do Bootstrap.
+A página foi construída utilizando apenas componentes do Bootstrap, sem uso de CSS personalizado, focando em responsividade e organização visual.
 
-🚀 Tecnologias Utilizadas
+---
 
-HTML5
+## 🚀 Tecnologias Utilizadas
+- HTML5  
+- Bootstrap 5.3  
 
-Bootstrap 5.3
+---
 
-🎯 Funcionalidades
+## 🎯 Funcionalidades
+- Layout responsivo (desktop e mobile)  
+- Navbar com menu adaptável  
+- Carrossel de imagens automático  
+- Navegação interna até o refrão  
+- Estrutura com cards do Bootstrap  
+- Sidebar fixa (sticky)  
+- Rodapé com botão de retorno  
 
-✔️ Layout responsivo (adaptável para celular e desktop)
-✔️ Menu de navegação com botão para telas menores
-✔️ Carrossel de imagens automático
-✔️ Navegação interna até o refrão
-✔️ Exibição da letra da música organizada
-✔️ Uso de cards para estruturação do conteúdo
-✔️ Sidebar com efeito fixo (sticky)
-✔️ Rodapé com botão de navegação
+---
 
-🖼️ Estrutura da Página
-🔹 Navbar
+## 🖼️ Estrutura da Página
+- **Navbar:** Nome do artista e navegação  
+- **Carrossel:** Imagens com transição automática  
+- **Conteúdo:** Letra da música com destaque no refrão  
+- **Sidebar:** Informações sobre o artista  
+- **Footer:** Frase e navegação  
 
-Nome do artista
+---
 
-Botão para ir direto ao refrão
+## 📱 Responsividade
+O projeto utiliza o sistema de grid do Bootstrap para garantir boa visualização em diferentes dispositivos.
 
-🔹 Carrossel
+---
 
-Imagens com transição automática
+## ⚙️ Como Executar
+1. Baixe o arquivo  
+2. Salve como `index.html`  
+3. Abra no navegador  
 
-🔹 Conteúdo Principal
+---
 
-Título da música
-
-Letra formatada com destaque no refrão
-
-🔹 Lateral (Sidebar)
-
-Imagem do artista
-
-Informações do álbum
-
-Biografia resumida
-
-🔹 Rodapé
-
-Frase da música
-
-Botão para retornar ao refrão
-
-📱 Responsividade
-
-O site foi construído utilizando o sistema de grid do Bootstrap, garantindo:
-
-Boa visualização em diferentes tamanhos de tela
-
-Menu adaptável para dispositivos móveis
-
-Elementos bem distribuídos
-
-⚙️ Como Executar
-
-Salve o arquivo como index.html
-
-Abra no navegador
-
-💡 Objetivo do Projeto
-
+## 💡 Objetivo
 Praticar:
+- Estruturação com HTML  
+- Uso de componentes do Bootstrap  
+- Criação de layouts responsivos  
 
-Estruturação com HTML
+---
 
-Uso de componentes do Bootstrap
-
-Criação de layouts responsivos sem CSS próprio
-
-📄 Licença
-
-Projeto desenvolvido apenas para fins educacionais.
+## 📄 Licença
+Projeto desenvolvido para fins educacionais.
